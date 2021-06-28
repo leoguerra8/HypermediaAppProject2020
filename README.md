@@ -18,4 +18,4 @@ Here follow some examplary screenshots of the website:
 ![](./Screenshots/s3.png)
 
 ## Documentation
-The full documentation of the project (also containing more screenshots of the website) can be found in the [Documentation] file (./Documentation).
+The full documentation of the project (also containing more screenshots of the website) can be found in the [Documentation] file (./Documentation.pdf).
