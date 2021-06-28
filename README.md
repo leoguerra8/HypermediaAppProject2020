@@ -8,6 +8,8 @@ The website can be reached at the following link:
 
 ## Screenshots
 ![Homepage](./Screenshots/s1.png)
+![](./Screenshots/s2.png)
+![](./Screenshots/s3.png)
 
 ## Documentation
 The full documentation of the project (also containing more screenshots of the website) can be found in the "Documentation.pdf" file.
