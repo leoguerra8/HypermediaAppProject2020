@@ -4,3 +4,10 @@ This website have been developed as a final project for the course Hypermedia Ap
 
 The website can be reached at the following link:
 [Big Brothers website](https://bigbrothershyp.herokuapp.com/)
+
+
+## Screenshots
+...
+
+## Documentation
+The full documentation of the project (also containing more screenshots of the website) can be found in the "Documentation.pdf" file.
