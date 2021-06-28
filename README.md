@@ -3,7 +3,7 @@
 This website have been developed as a final project for the course Hypermedia Application (Web and Multimedia) @ Politecnico di Milano, A.Y.2019-2020
 
 The website can be reached at the following link:
-[Big Brothers website](https://bigbrothershyp.herokuapp.com/)
+[Big Brothers website](https://bigbrothershyp.herokuapp.com/).
 
 
 ## Screenshots
@@ -18,4 +18,4 @@ Here follow some examplary screenshots of the website:
 ![](./Screenshots/s3.png)
 
 ## Documentation
-The full documentation of the project (also containing more screenshots of the website) can be found in the [Documentation] file (./Documentation.pdf).
+The full documentation of the project (also containing more screenshots of the website) can be found in the [Documentation](./Documentation.pdf) file.
